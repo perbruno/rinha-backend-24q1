@@ -1,0 +1,8 @@
+*.ruff_cache*
+*__pycache__*
+
+.venv/*
+.env
+
+.vscode
+.python-version
