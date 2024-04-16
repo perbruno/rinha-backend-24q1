@@ -162,7 +162,7 @@ test_case = [
 ];
 
 // Define the API URL
-const apiUrl = "http://localhost:8081/clientes";
+const apiUrl = "http://localhost:9999/clientes";
 
 for (let index = 0; index < test_case.length; index++) {
   const test = test_case[index];
